@@ -36,7 +36,9 @@ Throughout the semester, this repository will be updated with:
 ## Author
 
 **Name:** Abdur Rahman Jayed
+
 **Student ID:** 0432320005101106
+
 **Department:** Computer Science and Engineering (CSE)
 
 ---
